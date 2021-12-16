@@ -1,0 +1,27 @@
+{
+  "name": "userauthpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermoFragachan/userAuthPractice.git"
+  },
+  "author": "Guillermo Fragachan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/guillermoFragachan/userAuthPractice/issues"
+  },
+  "homepage": "https://github.com/guillermoFragachan/userAuthPractice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-list-endpoints": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.2",
+    "query-to-mongo": "^0.10.1"
+  }
+}
